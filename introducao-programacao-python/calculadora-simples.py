@@ -23,8 +23,8 @@ resto = primeiro_valor % segundo_valor
 
 clear_console()
 
-print("soma = ", soma)
-print("subtração = ", subtracao)
-print("multiplicação = ", multiplicacao)
-print("divisão = ", divisao)
-print("resto = ", resto)
+print(f"soma = {soma}")
+print(f"subtração = {subtracao}")
+print(f"multiplicação = {multiplicacao}")
+print(f"divisão = {divisao}")
+print(f"resto = {resto}")
