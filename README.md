@@ -3,7 +3,7 @@
 # Introdução à programação em Python
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-Este repositório contém exemplos práticos em Python da "Unidade 01 - Introdução à Programação em Python" oferecida na disciplina de "Raciocínio Computacional" no curso de Análise e Desenvolvimento de Sistemas na [PUCPR](https://www.pucpr.br/).
+Este repositório contém exemplos práticos em Python da "Unidade 01 - Introdução à programação em Python" oferecida na disciplina de "Raciocínio Computacional" no curso de Análise e Desenvolvimento de Sistemas na [PUCPR](https://www.pucpr.br/).
 
 <br>
 
